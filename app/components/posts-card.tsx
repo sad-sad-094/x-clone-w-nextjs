@@ -16,9 +16,6 @@ export default function PostCard({
   content: string
 }) {
 
-  console.log(userName);
-
-
   return (
     <Card className="bg-transparent shadow-none hover:bg-slate-800 transition border-b border-white/20 rounded-none cursor-pointer">
 
