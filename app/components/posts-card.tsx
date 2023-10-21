@@ -31,7 +31,7 @@ export default function PostCard({
         </div>
       </CardHeader>  
 
-      <CardBody className="px-3 py-0 text-small text-white">
+      <CardBody className="px-3 py-0 text-small text-white">  
         <p>
           {content}
         </p>
