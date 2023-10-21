@@ -29,7 +29,7 @@ export default function PostCard({
             <h5 className="text-small tracking-tight text-default-500">@{userName}</h5>  
           </div>
         </div>
-      </CardHeader>
+      </CardHeader>  
 
       <CardBody className="px-3 py-0 text-small text-white">
         <p>
