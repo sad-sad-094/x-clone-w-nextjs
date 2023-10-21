@@ -39,7 +39,7 @@ export default function PostCard({
 
       <CardFooter className="gap-3">
         <button>
-          <IconMessageCircle className="h-4 w-4" />
+          <IconMessageCircle className="h-4 w-4" />  
         </button>
         <button>
           <IconHeart className="h-4 w-4" />
