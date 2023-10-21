@@ -26,7 +26,7 @@ export default function PostCard({
           </Link>
           <div className="flex flex-col gap-1 items-start justify-center">
             <h4 className="text-small font-semibold leading-none text-default-600">{userFullname}</h4>
-            <h5 className="text-small tracking-tight text-default-500">@{userName}</h5>
+            <h5 className="text-small tracking-tight text-default-500">@{userName}</h5>  
           </div>
         </div>
       </CardHeader>
